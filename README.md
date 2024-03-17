@@ -71,8 +71,8 @@ Here are advantages of the application.
 #### Contact number of workers and job seeker are available on the site, so user can call to each other and ask for help.
 
 ## Our Team
-#### Sagar Chaudhari @sagar-708
-#### Tejas Borase @tejas78927
-#### Chetan Chaudhari
-#### shivam patil @shivam89
-#### saurav patil @saurav78
+#### Chetan Chaudhari 
+#### Sagar Chaudhari 
+#### Tejas Borase 
+#### shivam patil 
+#### saurav patil
